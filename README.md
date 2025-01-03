@@ -33,7 +33,7 @@
 [![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)](https://laravel.com/)  
 [![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)](https://www.mysql.com/)  
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)
-[![Python](https://img.shields.io/badge/Python-blue?logo=python)](https://www.python.org/)
+[![Python](https://img.icons8.com/color/48/000000/python.png)](https://www.python.org/)
 
 ---
 
